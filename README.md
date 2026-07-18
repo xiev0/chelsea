@@ -8,3 +8,5 @@
 # needed utils 
 - yazi
 - neovim
+- foot
+- fish
