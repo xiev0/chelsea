@@ -10,3 +10,4 @@
 - neovim
 - foot
 - fish
+- pavucontrol
