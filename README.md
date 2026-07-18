@@ -12,3 +12,4 @@
 - fish
 - pavucontrol
 - grim slurp wl-clipboard
+- awww  
