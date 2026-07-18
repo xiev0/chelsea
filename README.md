@@ -11,3 +11,4 @@
 - foot
 - fish
 - pavucontrol
+- grim slurp wl-clipboard
